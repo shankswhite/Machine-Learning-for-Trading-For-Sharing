@@ -15,7 +15,7 @@ import indicators
 
 
 def author():
-    return 'xzhao474'
+    return 'xz'
 
 
 class StrategyLearner(object):  		  	   		 	   			  		 			     			  	 
