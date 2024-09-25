@@ -5,7 +5,7 @@ import experiment2
 
 
 def author():
-    return 'xzhao474'
+    return 'xz'
 
 
 if __name__ == "__main__":
