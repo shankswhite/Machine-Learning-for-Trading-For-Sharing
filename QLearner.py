@@ -27,7 +27,7 @@ class QLearner(object):
     :type verbose: bool  		  	   		 	   			  		 			     			  	 
     """
     def author(self):
-        return 'xzhao474'
+        return 'xz'
 
     def __init__(
         self,
