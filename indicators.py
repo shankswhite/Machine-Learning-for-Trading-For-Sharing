@@ -9,7 +9,7 @@ def author():
     :return: The GT username of the student  		  	   		 	   			  		 			     			  	 
     :rtype: str  		  	   		 	   			  		 			     			  	 
     """
-    return "xzhao474"  # replace tb34 with your Georgia Tech username.
+    return "xz"  # replace tb34 with your Georgia Tech username.
 
 
 def bollinger_bands(symbol='JPM', sd=dt.datetime(2008, 1, 1), ed=dt.datetime(2009, 12, 31), plot=True, window_size=20):
