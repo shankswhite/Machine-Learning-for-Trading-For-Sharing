@@ -10,7 +10,7 @@ from scipy.optimize import minimize
 
 
 def author():
-    return 'xzhao474'
+    return 'xz'
 
 
 class ManualStrategy:
