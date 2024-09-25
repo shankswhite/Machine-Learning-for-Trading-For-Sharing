@@ -10,7 +10,7 @@ from util import get_data, plot_data
 
 
 def author():
-    return 'xzhao474'
+    return 'xz'
 
 
 def experiment1():
